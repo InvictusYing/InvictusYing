@@ -15,5 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=invictusying)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=invictusying)](https://github.com/anuraghazra/github-readme-stats)
+
+<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/
+                         apiusername=invictustying
+&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21" />
+<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/
+                         username=invictusying&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6" />
+
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=LiGuiye&rank=-C,-B,-?)](https://github.com/ryo-ma/github-profile-trophy) -->
