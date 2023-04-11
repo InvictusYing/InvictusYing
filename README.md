@@ -3,7 +3,6 @@
 <!--
 **InvictusYing/InvictusYing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=invictusying)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
@@ -16,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=invictusying)](https://github.com/anuraghazra/github-readme-stats)
