@@ -17,8 +17,13 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=invictusying&repo=github-readme-stats" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=invictusying&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=invictusying&repo=github-readme-stats" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=invictusying&layout=compact&langs_count=8&card_width=320&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff" />
 </a>
+
+<!--
+![99's Github Stats](https://github-readme-stats.vercel.app/api?username=Eldrick99&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff)
+![99's Github Stats](https://github-readme-stats.vercel.app/api?username=Eldrick99&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+-->
