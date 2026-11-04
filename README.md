@@ -23,14 +23,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-invictusyings-projects.vercel.app/api?username=invictusying&count_private=true&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats-invictusyings-projects.vercel.app/api/top-langs?username=invictusying&layout=compact&langs_count=8&card_width=320&count_private=true&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff" />
-</a>
+</a> -->
 
 <!--
 ![99's Github Stats](https://github-readme-stats.vercel.app/api?username=Eldrick99&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff)
 ![99's Github Stats](https://github-readme-stats.vercel.app/api?username=Eldrick99&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 -->
+
+
+<p>
+  <img height="200" align="center" src="./profile/stats.svg" alt="Zhongying's GitHub stats" />
+  <img height="200" align="center" src="./profile/top-langs.svg" alt="Most used languages" />
+</p>
